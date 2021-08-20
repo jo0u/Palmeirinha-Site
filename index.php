@@ -25,8 +25,7 @@
             }
 
             body{
-                background:url("imagens/homeBack.jpg");
-                
+                background: #288228;;              
             }
             #menu ul {
                 margin-left:10px;
