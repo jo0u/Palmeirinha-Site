@@ -30,7 +30,7 @@ function lerDados(){
 
                 
                $total.="<section>".
-                "<div id = 'txt'><label >Nome do Cozinheiro: $nome </label><br>" .
+                "<div id = 'txt'><label >Cozinheiro: $nome </label><br>" .
                      "<br><label >País: $pais </label><br>".
                      "<br><label >Estado:$estado </label><br>".
                      "<br><label >sexo: $sexo </label><br>".
@@ -39,7 +39,7 @@ function lerDados(){
                      "<br><label >Ingredientes necessário: $ig </label><br>".
                      "<br><label  >Modo de Preparo:<br> $prep </label><br>".
                      "<br><label >Numero de contato: $contato </label><br>".
-                    "<div id ='aquin'><br><a href='excluir.php?id=$id'>$excluir</a></div></div></section>";
+                    "<div id ='aqui'><br><a href='excluir.php?id=$id'>$excluir</a></div></div></section>";
                      
                    
             }
